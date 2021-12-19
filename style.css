@@ -1,0 +1,113 @@
+body{
+    margin: 0;
+    scroll-behavior: smooth;
+    font-family: 'Poppins', sans-serif;
+}
+/*-----Menu Superior-----*/
+.menu ul{
+    display: inline-flex;  
+    width: 100%;
+    margin-top: 0;
+    background-color: rgba(0, 0, 0, 1);
+    color: white;
+    position: fixed;
+    text-decoration: none;
+}
+.menu ul p{
+    text-decoration: none;
+    padding: 0 5px;
+}
+.menu ul p a{
+    text-decoration: none;
+    padding: 0 8px;
+    background-color: rgba(19, 83, 48, 0.5);
+    border-radius: 8px;
+    border-color: rgba(33, 156, 89, 0.753);
+    border-width: 1px;
+    border-style: solid;
+    color: rgb(255, 255, 255);
+}
+/*-----Menu Inferior-----*/
+.foot-menu{
+    background-color: rgba(0, 0, 0, 0.1);
+    width: 100%;
+    display: inline-flex;
+    position: fixed;
+    bottom: 0%;
+}
+.foot-menu ul {
+    display: inline-block;
+}
+.foot-menu ul li {
+    font-style: none;
+    padding: 0 5px;
+}
+/*-----Portada-----*/
+.cover-page {
+    color: white;
+    background-color: #242444;
+    height: 40vh;
+}
+.logo{
+    font-size: 70px;
+    padding-top: 10rem;
+    text-align: center;
+}
+.description{
+    margin-left: 2vh;
+    margin-right: 2vh;
+    text-align: center;
+}
+/*-----Curve-----*/
+.curve{
+    padding: 12rem 0;
+    background-image: url(/img/stacked-peaks-haikei.svg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+/*-----Info-----*/
+.info {
+    font-size: 20px;
+    /*padding: 10rem 0;*/
+    padding-top: 5rem;
+    padding-bottom: 2rem;
+    color: white;
+    background-color: #038373;
+}
+.info {
+    text-align: center;
+}
+/*-----cuerpo-----*/
+.list {
+    background-color: cornsilk;
+    color: black;
+}
+.band-list{
+    background-color: #242444;
+    color: white;
+    text-align: center;
+    padding: 20px 0;
+}
+.text{
+    margin-left: 2vh;
+    margin-right: 2vh;
+}
+img{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 3vh;
+    width: 90%;
+    height: auto;
+    border-color: rgba(33, 156, 89, 0.753);
+    border-width: 1px;
+    border-style: solid;
+}
+
+/*-----Footer-----*/
+footer{
+    padding: 12em 0 15em 0;
+    background-image: url(/img/layered-waves-haikei.svg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
