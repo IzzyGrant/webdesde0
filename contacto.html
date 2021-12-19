@@ -14,15 +14,14 @@
 <body>
     <nav class="menu">
         <ul>
-            <p>Logo</p>
-            <p>Inicio</p>
-            <p>Servicios</p>
-            <p>Productos</p>
+            <p><b>SEDEREC</b></p>
+            <p><a href="index.html">Inicio</a></p>
+            <p><a href="comenzar.html">Comience</a></p>
+            <p><a href="blog.html">Blog</a></p>
         </ul>
     </nav>
     <div class="foot-menu">
         <ul>
-            <li>Carrito</li>
             <li>Ver Lista</li>
         </ul>
     </div>
@@ -32,19 +31,29 @@
             <div class="description">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Molestias corrupti at, laboriosam mollitia ipsum perferendis dolore voluptatem cupiditate esse eaque!</div>
         </section>
         <div class="curve">Curve</div>
-        <section class="info">
-            <div class="info-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Debitis quo dolor natus, aspernatur nemo nisi.</div>
-            <div class="info-text">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Pariatur, dolores.</div>
-            <div class="info-text">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Pariatur, dolores.</div>
-            <div class="info-text"><?php include "/lista.php";?><b>hola</b></div>
-            <div class="info-text"><?php echo "holaechoo"; ?></div>
-          </section>
         <section class="list">
-            <div class="band-list"> Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet. </div>
-          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Illum nostrum voluptate vero consequatur non ea harum, ad tenetur voluptates, ducimus reprehenderit culpa repudiandae hic fuga, numquam natus totam enim? Voluptate odio accusantium consequuntur praesentium quia dolorum quod, quisquam ratione vero ducimus accusamus, ea a blanditiis, recusandae provident facilis voluptatum velit commodi repellat. Tempora, officia labore quisquam odio nostrum iste aliquid!</p>
+            <div class="band-list"> Formulario de contacto </div>
+          <h2 class="text">Rellene el siguiente formulario para ponernos en contacto con usted.</h2>
+          <form style="text-align: center;">
+            <label for="Nombre">Nombre:</label><br>
+            <input type="text" id="Nombre" name="Nombre" value=""><br>
+            <label for="Asunto">Asunto:</label><br>
+            <input type="text" id="Asunto" name="Asunto" value=""><br>
+            <label for="Correo">Correo Electronico</label><br>
+            <input type="email" name="Correo" id="Correo"><br>
+            <label for="Tel">Número Telefónico: (12-12345678)</label><br>
+            <input type="tel" id="Tel" name="Tel" pattern="[0-9]{2}-[0-9]{8}"><br>
+            <label for="Mensaje">Mensaje: </label><br>
+            <textarea name="Mensaje" id="Mensaje" cols="60" rows="10"></textarea><br><br>
+            <input type="submit" value="Enviar">
+            
+            <br>
+          </form>
+          <p class="text"><i> *Toda la información obtenida esta sujeta a rigurosas normas de privacidad. </i></p>
+            <br>
         </section>
         <section class="order">
-            <div class="band-list"> Order </div>
+            <div class="band-list"> Separador </div>
            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Enim obcaecati, accusamus officiis cupiditate hic iste illum tenetur molestiae sapiente dignissimos quasi libero, commodi unde laboriosam provident praesentium sit itaque architecto nemo eum. Obcaecati, quis illo magni modi sed omnis error qui expedita nostrum, natus vel. Eius recusandae dolorum, laudantium doloribus dignissimos delectus quia rerum explicabo. Ex velit accusantium nam consequuntur.</p>
         </section>
     <footer>
