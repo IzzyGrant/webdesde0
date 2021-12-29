@@ -107,7 +107,7 @@ img{
 /*-----Footer-----*/
 footer{
     padding: 12em 0 15em 0;
-    background-image: url(/img/layered-waves-haikei.svg);
+    background-image: url(layered-waves-haikei.svg);
     background-repeat: no-repeat;
     background-size: cover;
 }
