@@ -12,6 +12,7 @@ body{
     color: white;
     position: fixed;
     text-decoration: none;
+    z-index: 10;
 }
 .menu ul p{
     text-decoration: none;
@@ -92,7 +93,7 @@ body{
     margin-left: 2vh;
     margin-right: 2vh;
 }
-img{
+.imgs{
     display: block;
     margin-right: auto;
     margin-left: auto;
@@ -103,6 +104,21 @@ img{
     border-width: 1px;
     border-style: solid;
     max-width: 600px;
+}
+.svg{
+
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 0px;
+    left: 0;
+    right: 0;
+
+    width: 90%;
+    height: auto;
+    max-width: 200px;
+    position: absolute;
+    filter: invert();
+    z-index: 1 ;
 }
 
 /*-----Footer-----*/
