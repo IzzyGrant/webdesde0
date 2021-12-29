@@ -61,7 +61,7 @@ body{
 /*-----Curve-----*/
 .curve{
     padding: 12rem 0;
-    background-image: url(/img/stacked-peaks-haikei.svg);
+    background-image: url(stacked-peaks-haikei.svg);
     background-repeat: no-repeat;
     background-size: cover;
 }
