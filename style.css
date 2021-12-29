@@ -102,6 +102,7 @@ img{
     border-color: rgba(33, 156, 89, 0.753);
     border-width: 1px;
     border-style: solid;
+    max-width: 600px;
 }
 
 /*-----Footer-----*/
