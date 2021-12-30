@@ -66,7 +66,7 @@ header {
 .menu-icon {
     display: none;
 }
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 860px) {
     .menu {
         width: 100%;
         height: auto;
@@ -182,13 +182,15 @@ header {
     filter: invert();
     z-index: 1 ;
 }
+
 .grid-container {
     display: grid;
     grid-template-columns: auto auto;
-    background-color: #ffffff;
+    background-color: rgb(255, 255, 255);
     padding: 10px;
   }
-  @media screen and (max-width: 768px) {.grid-container{grid-template-columns: auto;}};
+
+  @media screen and (max-width: 768px) {.grid-container{grid-template-columns: auto;}}
  
   .grid-item img{
       display: block;
@@ -197,13 +199,13 @@ header {
       margin-top: 3vh;
       width: 90%;
       height: auto;
-    background-color: rgba(255, 255, 255, 0.8);
+    background-color: rgba(255, 255, 255, 0.123);
     border: 1px solid rgba(0, 0, 0, 0.8);
-    padding: 20px;
+    padding: 5px;
     font-size: 30px;
     text-align: center;
   }
-  .grid-itemtxt{
+.grid-itemtxt{
   background-color: rgba(255, 255, 255, 0.8);
   border: 1px solid rgba(0, 0, 0, 0.8);
   padding: 15px;
@@ -227,7 +229,7 @@ header {
     grid-template-columns: auto auto auto auto;
     padding: 1px;
   }
-  .grid-item-foot{
+.grid-item-foot{
     display: block;
     margin-right: auto;
     margin-left: auto;
