@@ -4,45 +4,55 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="style.css">
-    <script src="script.js"></script>
     <link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500&display=swap" rel="stylesheet">
     <title>Nosotros</title>
 </head>
 <body>
-    <nav class="menu">
-        <ul>
-            <p><b>SEDEREC</b></p>
-            <p><a href="index.html">Inicio</a></p>
-            <p><a href="comenzar.html">Comience</a></p>
-            <p><a href="blog.html">Blog</a></p>
-        </ul>
-    </nav>
-    <div class="foot-menu">
-        <ul>
-            <li></li>
-        </ul>
-    </div>
+    <header>
+        <figure class="brand"><i class="fa fa-pagelines" aria-hidden="true"></i> <b>SEDEREC</b></figure>
+        <nav class="menu">
+            <input type="checkbox" id="menuToggle">
+            <label for="menuToggle" class="menu-icon"><i class="fa fa-bars"></i></label>
+            <ul>
+                <a href="index.html"><li><i class="fa fa-home"></i> Inicio</li></a>
+                <a href="comenzar.html"><li><i class="fa fa-tree"></i> Comience</li></a>
+                <a href="blog.html"><li><i class="fa fa-newspaper-o"></i> Blog</li></a>
+                <a href="nosotros.html"><li><i class="fa fa-users"></i> Nosotros</li></a>
+                <a href="contacto.html"><li><i class="fa fa-comments-o"></i> Contacto</li></a>
+            </ul>
+        </nav>
+    </header>
     <main>
-        <!--<section class="cover-page">
-            <div class="logo">Nosotros</div>
-            <div class="description">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Molestias corrupti at, laboriosam mollitia ipsum perferendis dolore voluptatem cupiditate esse eaque!</div>
-        </section>
-        <div class="curve">Curve</div>-->
         <div class="band-list"></div>
         <section class="order">
             <div class="band-list"><br> <h2>Nosotros</h2> </div>
-          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Illum nostrum voluptate vero consequatur non ea harum, ad tenetur voluptates, ducimus reprehenderit culpa repudiandae hic fuga, numquam natus totam enim? Voluptate odio accusantium consequuntur praesentium quia dolorum quod, quisquam ratione vero ducimus accusamus, ea a blanditiis, recusandae provident facilis voluptatum velit commodi repellat. Tempora, officia labore quisquam odio nostrum iste aliquid!</p>
+          <p style="text-align: justify; text-indent:50px;">A través de la Línea Migrante, la Secretaría de Desarrollo Rural y Equidad para las Comunidades (Sederec) brinda asesoría e información sobre sus programas y servicios a las personas en retorno, huéspedes y sus familiares, con lo que se hacen valer sus derechos establecidos en la Ley de Interculturalidad, Atención a Migrantes y Movilidad Humana en el Distrito Federal.</p>
         </section>
         <section class="order">
-            <div class="band-list"> Order </div>
-           <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Enim obcaecati, accusamus officiis cupiditate hic iste illum tenetur molestiae sapiente dignissimos quasi libero, commodi unde laboriosam provident praesentium sit itaque architecto nemo eum. Obcaecati, quis illo magni modi sed omnis error qui expedita nostrum, natus vel. Eius recusandae dolorum, laudantium doloribus dignissimos delectus quia rerum explicabo. Ex velit accusantium nam consequuntur.</p>
+            <div class="band-list"> Otros sitios </div>
+            <div class="grid-container">
+                <div class="grid-item"><a href="https://plazapublica.cdmx.gob.mx/uploads/decidim/attachment/file/12/plan_gob_nov_digital.pdf"><img src="https://www.sepi.cdmx.gob.mx/storage/app/uploads/public/5dc/9f6/433/5dc9f6433fc54774126816.png" alt="Material necesario"></a></div>
+                <div class="grid-item"><a href="https://datos.cdmx.gob.mx/"><img src="https://www.sepi.cdmx.gob.mx/storage/app/uploads/public/5cc/0fb/cee/5cc0fbcee0f76830762897.png" alt="Material necesario"></a></div>
+                <div class="grid-item"><a href="https://www.tianguisdigital.cdmx.gob.mx/"><img src="https://www.sepi.cdmx.gob.mx/storage/app/uploads/public/5dc/9f6/9ed/5dc9f69ed3fec770549065.png" alt="Material necesario"></a></div>
+            </div>
         </section>
         <footer>
-            <div class="foot-text"></div>
-            <p style="text-align: center;">Para recibir orientación y asesoría se puede llamar al 1102-6500 ext. 6508 Para contactarnos ingrese a este <a href="contacto.html">Formulario</a></p>
+        </div>
+        <div class="band-list"> 
+            <p style="text-align: center;">Para recibir orientación y asesoría se puede llamar al 1102-6500 ext. 6508.</p> 
+            <div class="grid-container-foot">
+                <div class="grid-item-foot"><i class="fa fa-facebook"></i></div>
+                <div class="grid-item-foot"><i class="fa fa-instagram"></i></div>
+                <div class="grid-item-foot"><i class="fa fa-twitter"></i></div>
+                <div class="grid-item-foot"><i class="fa fa-google"></i></div>
+            </div>
+            <hr style="color: white; width: 90%;">
+            <h4>Ciudad de México, la Secretaría de Desarrollo Rural y Equidad para las Comunidades (SEDEREC)</h4>
+        </div>
         </footer>
     </main>
 </body>
