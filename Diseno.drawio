@@ -1,1 +1,34 @@
-<mxfile host="app.diagrams.net" modified="2021-12-19T16:08:43.763Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36 Edg/96.0.1054.53" etag="fUxwfpT6HNPpLYzTwX53" version="16.0.0" type="device"><diagram id="Wv7jt6-sn4K07YVSv7_b" name="Page-1">1ZZdj6IwFIZ/TS83EYqol4g6a7Kjrl7sdQcO0KQfpNRF59dvK/WDkMmwOzGuN3B4e1o4z3mBIhzzw4siZfEqU2DIH6QHhGfI94d+aI5WODYCHgaNkCuaNpJ3FXb0HZw4cOqeplC1ErWUTNOyLSZSCEh0SyNKybqdlknWvmtJcugIu4SwrvqLprpo1MDDV/070Lxwdx6O3QAn51xXSFWQVNY3Ep4jHCspdRPxQwzMojtjaeYtPhi9PJcCoftM+Dmp5kUU8WyRbBY8yqLlpvzmVvlN2N7V+2P9skZ+SHiJ8FS8VfaE7NJ9pFhyEO9E9cueMpn3y1zJSmolK0dSH8/dUXIvUrAVDkxmXVANu5IkdrQ2djRaoTkzV54JCaO5MDGDTJ/WPZUOSsPhQ6bepVPG4GDK0+poUupbK7gGFzc2wE4jzn35Zeq1QyZwTfqLhvmdhm2k0iQlhhqzVb1Z+LmNZlAlipYJRTFGUyy+Bu8rtNyrHzgon8HzJveihzv0dvNNtI1m661Zb7larLevUby0wCZ49XBgFxs9zG5BB1i8B1VK+0EHc1iKTCpO/h+P+aHf02Sj8Z2YDZ/LZEHf1/JuJgufzWTBqO+X7G4mGz2XycJg/GCTjbs/Tgpnh5ldHBXk8ZRGPSn9i6/M5XWzeRq72bDj+R8=</diagram></mxfile>
+<mxfile host="65bd71144e">
+    <diagram id="Wv7jt6-sn4K07YVSv7_b" name="Page-1">
+        <mxGraphModel dx="459" dy="421" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="413" pageHeight="583" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="Q9sEhAAmfFcPFmAfAIPp-1" value="LOGO&amp;nbsp; &amp;nbsp;&lt;span style=&quot;white-space: pre&quot;&gt;&#9;&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;&#9;&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;&#9;&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;&#9;&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;&#9;&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;&#9;&lt;/span&gt; &amp;nbsp; Comenzar&amp;nbsp; &amp;nbsp; Blog&amp;nbsp; &amp;nbsp; Nosotros&amp;nbsp; Contacto" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+                    <mxGeometry width="410" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="Q9sEhAAmfFcPFmAfAIPp-2" value="Portada&lt;br&gt;Descripción" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry y="40" width="410" height="190" as="geometry"/>
+                </mxCell>
+                <mxCell id="Q9sEhAAmfFcPFmAfAIPp-3" value="SEPARADOR/INFORMACIÓN" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry y="230" width="410" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="Q9sEhAAmfFcPFmAfAIPp-4" value="Cuerpo de Información" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry y="262" width="410" height="178" as="geometry"/>
+                </mxCell>
+                <mxCell id="Q9sEhAAmfFcPFmAfAIPp-5" value="SEPARADOR/INFORMACIÓN" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry y="440" width="410" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="Q9sEhAAmfFcPFmAfAIPp-6" value="Cuerpo de Información" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry y="470" width="410" height="110" as="geometry"/>
+                </mxCell>
+                <mxCell id="Q9sEhAAmfFcPFmAfAIPp-7" value="SEPARADOR/INFORMACIÓN" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry y="583" width="410" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="Q9sEhAAmfFcPFmAfAIPp-8" value="Pie de pagina" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry y="613" width="410" height="72" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
