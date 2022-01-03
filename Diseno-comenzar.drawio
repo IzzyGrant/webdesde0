@@ -1,0 +1,49 @@
+<mxfile host="65bd71144e">
+    <diagram id="Wv7jt6-sn4K07YVSv7_b" name="Page-1">
+        <mxGraphModel dx="666" dy="610" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="413" pageHeight="583" background="none" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="Q9sEhAAmfFcPFmAfAIPp-1" value="LOGO&amp;nbsp; &amp;nbsp;&lt;span style=&quot;white-space: pre&quot;&gt;&#9;&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;&#9;&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;&#9;&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;&#9;&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;&#9;&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;&#9;&lt;/span&gt; &amp;nbsp; Comenzar&amp;nbsp; &amp;nbsp; Blog&amp;nbsp; &amp;nbsp; Nosotros&amp;nbsp; Contacto" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+                    <mxGeometry width="410" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="Q9sEhAAmfFcPFmAfAIPp-2" value="Portada&lt;br&gt;Información" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry y="30" width="410" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="Q9sEhAAmfFcPFmAfAIPp-3" value="SEPARADOR/INFORMACIÓN" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry y="130" width="410" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="Q9sEhAAmfFcPFmAfAIPp-4" value="Imagen" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry y="160" width="200" height="130" as="geometry"/>
+                </mxCell>
+                <mxCell id="Q9sEhAAmfFcPFmAfAIPp-5" value="SEPARADOR/INFORMACIÓN" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry y="440" width="410" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="Q9sEhAAmfFcPFmAfAIPp-8" value="Pie de pagina" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry y="760" width="410" height="72" as="geometry"/>
+                </mxCell>
+                <mxCell id="2" value="Imagen" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="210" y="160" width="200" height="130" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="Imagen" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry y="300" width="200" height="130" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="Imagen" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="210" y="300" width="200" height="130" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="Imagen" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry y="480" width="200" height="130" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="Imagen" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="210" y="480" width="200" height="130" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="Imagen" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry y="620" width="200" height="130" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="Imagen" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="210" y="620" width="200" height="130" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
